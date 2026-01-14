@@ -1,0 +1,80 @@
+You are a senior automotive market strategist and a front-end engineer.
+
+Objective:
+Create a professional, presentation-ready slide deck for a market research test project about GMC Acadia, built using HTML, CSS, and JavaScript.
+
+Context:
+- This is a test project to validate Claude Code’s ability to generate high-quality, visual, front-end-based presentation outputs.
+- The deck should feel suitable for an advertising agency pitch or internal strategy review.
+- Target market: South Korea
+- Vehicle: GMC Acadia (mid-to-large premium SUV)
+- Key competitors: Genesis GV80, Volvo XC90
+
+Research Scope:
+1. Overview of the Korean premium SUV market
+2. Positioning opportunities for GMC Acadia in Korea
+3. Competitive comparison vs GV80 and XC90
+4. Key consumer value drivers (space, safety, technology, value-for-money)
+5. Strategic implications for a Korea launch campaign
+
+Output Requirements (Very Important):
+- Generate a complete, self-contained slide deck using:
+  - HTML (semantic structure)
+  - CSS (modern, clean, professional styling)
+  - JavaScript (slide navigation / interactivity)
+- No external frameworks (no React, no Vue, no reveal.js)
+- Use vanilla HTML/CSS/JS only
+- Slides should be horizontally navigable (keyboard arrows or buttons)
+
+Slide Design Guidelines:
+- Clean, premium, automotive-style visual tone
+- Dark or neutral background with high contrast typography
+- Clear hierarchy: title → key insight → supporting points
+- Minimal text per slide (executive-friendly)
+- Use icons, dividers, and spacing instead of heavy paragraphs
+- Include subtle transitions between slides (CSS or JS)
+
+Slide Structure:
+1. Cover slide  
+   - Title: “GMC Acadia – Korea Market Opportunity”
+   - Subtitle: Market Research Test Deck
+
+2. Market Landscape  
+   - Size and characteristics of Korea’s premium SUV segment
+   - Key consumer expectations
+
+3. Competitive Context  
+   - Visual comparison table: Acadia vs GV80 vs XC90
+   - Strengths and gaps
+
+4. Consumer Value Drivers  
+   - What Korean SUV buyers prioritize
+   - How Acadia aligns or differentiates
+
+5. Strategic Opportunity  
+   - White space and positioning opportunity for Acadia
+   - Core strategic insight (one strong takeaway)
+
+6. Messaging Implications  
+   - 3–4 suggested messaging pillars for advertising
+
+7. Summary / Closing  
+   - Key takeaway for decision-makers
+
+Technical Output Instructions:
+- Output the final result as:
+  1. index.html
+  2. styles.css
+  3. script.js
+- Include clear comments in code explaining structure and logic
+- Ensure the deck runs locally by simply opening index.html in a browser
+- Use placeholder icons or simple shapes instead of images
+
+Tone & Quality Bar:
+- Insight-driven, not generic
+- Feels like agency-grade thinking
+- Suitable as a demo to show stakeholders “what Claude Code can do”
+
+Before finalizing:
+- Double-check that the slides read logically in sequence
+- Ensure design and content feel cohesive and premium
